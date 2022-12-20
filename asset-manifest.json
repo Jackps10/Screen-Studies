@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e51cd39.css",
-    "main.js": "/static/js/main.d14b1dcd.js",
-    "static/media/check-mark.svg": "/static/media/check-mark.53f24c0a28e150404896.svg",
-    "index.html": "/index.html",
-    "main.1e51cd39.css.map": "/static/css/main.1e51cd39.css.map",
-    "main.d14b1dcd.js.map": "/static/js/main.d14b1dcd.js.map"
+    "main.css": "/Screen-Studies/static/css/main.bb2775f5.css",
+    "main.js": "/Screen-Studies/static/js/main.d14b1dcd.js",
+    "static/media/check-mark.svg": "/Screen-Studies/static/media/check-mark.53f24c0a28e150404896.svg",
+    "index.html": "/Screen-Studies/index.html",
+    "main.bb2775f5.css.map": "/Screen-Studies/static/css/main.bb2775f5.css.map",
+    "main.d14b1dcd.js.map": "/Screen-Studies/static/js/main.d14b1dcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e51cd39.css",
+    "static/css/main.bb2775f5.css",
     "static/js/main.d14b1dcd.js"
   ]
 }
