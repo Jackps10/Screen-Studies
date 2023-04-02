@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+Acesse a Aplicação: https://jackps10.github.io/Screen-Studies/
+
 
 ### Estilizando com Sass:
 Primeiramente, instalaremos o Sass, que é o pré-processador CSS que iremos utilizar no curso.
